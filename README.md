@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Wrold 👋
+
+![OXOYO's github stats](https://github-readme-stats.vercel.app/api?username=OXOYO&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OXOYO)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eastFu/eastFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
