@@ -4,6 +4,6 @@
 
 ### About 😄 
 
-- 🔭 I’m currently working on : Beijing,China
-- 🌱 I’m currently learning : Golang、Spark
-- ⚡ Fun fact : code、alpinism
+- 🔭 I’m currently working on : Beijing.China
+- 🌱 I’m currently learning : Golang,Spark
+- ⚡ Fun fact : code,alpinism
